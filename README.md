@@ -1,7 +1,6 @@
 # 🏙 Urban Mobility Route Recommender
 
-![banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
-
+  
 **一个基于 Dijkstra 算法的城市路线推荐 Demo，支持模拟交通拥堵和高峰期路况调整。**
 
 ---
